@@ -2,7 +2,7 @@
 - 👀 I’m interested in Art, Design and Tech
 - 🌱 I’m currently learning Creative Coding
 - 💞️ I’m looking to collaborate on projets that need creative direction
-- 📫 How to reach me: Instagram @ux.martina
+- 📫 How to reach me: Instagram @martinav3rse
 
 <!---
 msoles/msoles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
